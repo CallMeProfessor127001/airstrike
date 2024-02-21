@@ -10,3 +10,4 @@ sudo apt-get install cowsay
 sudo apt-get install lolcat
 sudo apt-get install toilet
 sudo apt-get install aircrack-ng
+sudo apt-get install crunch
